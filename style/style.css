@@ -129,3 +129,81 @@ footer {
   transform: translateY(0);
 }
 /* End Back to top */
+
+/* Product */
+
+.product1{
+  background-color: #020e35;
+}
+
+.product2{
+  background-color: #020e35;
+}
+
+u{
+  color: brown;
+}
+
+.judul{
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+.brand-1{
+  margin-right: 319px;
+  display: flex;
+  color: #fff;
+}
+
+.deskripsi-1{
+  margin-right: 100px;
+  margin-left: 4px;
+  margin-top: 20px;
+  color: #fff;
+  display: flex;
+}
+
+.deskripsi-2{
+  margin-right: 100px;
+  margin-left: 4px;
+  margin-top: 20px;
+  color: #fff;
+  display: flex;
+  text-align: left;
+}
+
+.brand-2{
+  margin-left: 300px;
+  display: flex;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.deskripsi-3{
+  margin-right: 10px;
+  margin-left: 259px;
+  margin-top: 20px;
+  color: #fff;
+  display: flex;
+}
+
+.deskripsi-4{
+  margin-right: 10px;
+  margin-left: 30px;
+  margin-top: 20px;
+  color: #fff;
+  display: flex;
+  text-align: right;
+}
+
+.col{
+  margin-top: 20px;
+}
+
+
+img.kanan {
+  margin-top: 20px;
+}
+
+
