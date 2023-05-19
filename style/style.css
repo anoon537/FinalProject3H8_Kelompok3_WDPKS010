@@ -134,7 +134,10 @@ footer {
 
 .product1{
   background-color: #020e35;
+  margin-top: -200px;
 }
+
+
 
 .product2{
   background-color: #020e35;
@@ -146,6 +149,8 @@ footer {
   margin-right: 300px;
   display: flex;
   color: #fff;
+  margin-top: 300px;
+  
 }
 
 .deskripsi-1{
@@ -190,18 +195,22 @@ footer {
   text-align: right;
 }
 
+.brand-3{
+  
+}
+
 .col{
   margin-top: 20px;
 }
 
 
 img.kanan {
-  margin-top: 20px;
+  margin-top: 40px;
   margin-right: 150px;
 }
 
 img.kiri{
-  margin-top: 10px;
+  margin-top: 300px;
   margin-left: 100px;
 }
 
@@ -210,9 +219,68 @@ img.kiri{
 }
 
 .our{
-  margin-top: 20px;
+  margin-top: 350px;
   color: #fff;
-  
+}
+
+/* style card */
+.service{
+  text-align: center;
+  margin-top: 150px;
+}
+
+.container-card{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  justify-content: space-evenly;
+  margin-bottom: -250px;
+  margin-top: 90px;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.card-text{
+  text-align: center;
+}
+
+.btn{
+  color: #fff;
+}
+
+.btn-card1{
+  background: linear-gradient(270deg, #8c32f0 0%, #e73587 100%);
+  border-radius: 0%;
+  color: black;
+  border-color: transparent;
+  text-align: center;
+}
+
+
+.btn-card2{
+  text-align: center;
+  margin-top: 20px;
+  background: linear-gradient(270deg, #8c32f0 0%, #e73587 100%);
+}
+
+.btn-card3{
+  text-align: center;
+  margin-top: 30px;
+  background: linear-gradient(270deg, #8c32f0 0%, #e73587 100%);
+}
+
+/*style about */
+.justify{
+  text-align: center;
+  margin-top: 100px;
+}
+
+.deskripsi{
+  text-align: center;
+  width: 1300px; 
+  margin-top: 50px;
 }
 
 
