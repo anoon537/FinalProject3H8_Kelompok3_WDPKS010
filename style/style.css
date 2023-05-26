@@ -66,6 +66,9 @@ body {
   color: #e73587;
 }
 
+u{
+  text-decoration-color: #E73587;
+}
 /* Kolom 2 */
 .form-label-question {
   font-weight: 400;
@@ -149,7 +152,7 @@ footer {
   margin-right: 300px;
   display: flex;
   color: #fff;
-  margin-top: 300px;
+  margin-top: 100px;
   
 }
 
@@ -169,21 +172,26 @@ footer {
   color: #fff;
   display: flex;
   text-align: left;
+  padding-right: 155px;
 }
 
 .brand-2{
-  margin-left: 400px;
+  margin-left: 510px;
   display: flex;
   color: #fff;
   margin-top: 20px;
+
 }
 
 .deskripsi-3{
   margin-right: 10px;
-  margin-left: 359px;
+  margin-left: 471px;
   margin-top: 20px;
   color: #fff;
   display: flex;
+  
+  
+  
 }
 
 .deskripsi-4{
@@ -193,6 +201,7 @@ footer {
   color: #fff;
   display: flex;
   text-align: right;
+  padding-left: 155px;
 }
 
 .brand-3{
@@ -206,12 +215,12 @@ footer {
 
 img.kanan {
   margin-top: 40px;
-  margin-right: 150px;
+  margin-right: 200px;
 }
 
 img.kiri{
-  margin-top: 300px;
-  margin-left: 100px;
+  margin-top: 100px;
+  margin-left: 200px;
 }
 
 .judul1{
@@ -219,6 +228,7 @@ img.kiri{
 }
 
 .our{
+font-size: 40px;
   margin-top: 350px;
   color: #fff;
 }
@@ -237,7 +247,15 @@ img.kiri{
   margin-bottom: -250px;
   margin-top: 90px;
 }
-
+.card1{
+  background: #FDF8E3;
+}
+.card2{
+  background: #F0F3FA;
+}
+.card3{
+background: #FEEFF0;
+}
 .card-title{
   text-align: center;
 }
@@ -271,6 +289,15 @@ img.kiri{
   background: linear-gradient(270deg, #8c32f0 0%, #e73587 100%);
 }
 
+.btn-card4{
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  background: linear-gradient(270deg, #8c32f0 0%, #e73587 100%);
+  width:10%;
+  position: relative;
+ left: 45%;
+}
 /*style about */
 .justify{
   text-align: center;
@@ -281,6 +308,9 @@ img.kiri{
   text-align: center;
   width: 1300px; 
   margin-top: 50px;
+  position: relative;
+  top: 85%;
+  width: 100%;
 }
 
 
