@@ -147,84 +147,42 @@ footer {
 }
 
 /* Style Our */
-
-.brand-1{
-  margin-right: 300px;
-  display: flex;
-  color: #fff;
-  margin-top: 100px;
-  
+.gambar1{
+  margin-left: -20%;
 }
 
-.deskripsi-1{
-  margin-right: 100px;
-  margin-left: 4px;
-  margin-top: 20px;
-  color: #fff;
-  display: flex;
+.col-4{
   text-align: left;
+  margin-top: 70px;
 }
 
-.deskripsi-2{
-  margin-right: 100px;
-  margin-left: 4px;
+.deskripsi1{
+  margin-left: 20px;
+  color: #fff;
+}
+
+.p1{
   margin-top: 50px;
-  color: #fff;
-  display: flex;
-  text-align: left;
-  padding-right: 155px;
 }
 
-.brand-2{
-  margin-left: 510px;
-  display: flex;
-  color: #fff;
-  margin-top: 20px;
-
+.gambar2{
+  margin-right: -900%;
 }
 
-.deskripsi-3{
-  margin-right: 10px;
-  margin-left: 471px;
-  margin-top: 20px;
-  color: #fff;
-  display: flex;
-  
-  
-  
-}
-
-.deskripsi-4{
-  margin-right: 10px;
-  margin-left: 30px;
+.p2{
   margin-top: 50px;
-  color: #fff;
-  display: flex;
   text-align: right;
-  padding-left: 155px;
 }
 
-.brand-3{
-  
+.deskripsi2{
+  margin-right: 20px;
+  color: #fff;
+  text-align: right;
 }
 
-.col{
-  margin-top: 20px;
-}
-
-
-img.kanan {
-  margin-top: 40px;
-  margin-right: 200px;
-}
-
-img.kiri{
-  margin-top: 100px;
-  margin-left: 200px;
-}
-
-.judul1{
-  background-color: #020e35;
+.btn-our{
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .our{
